@@ -1,0 +1,14 @@
+div[class|='panel-body'] {
+    padding:8px;
+}
+
+div[class|='campaign-panel'] {
+    height:300px;
+    text-align:center;
+    box-shadow:3px 5px 5px grey; 
+    border-radius:5px; 
+    border:1px solid #000; 
+    margin:10px;
+    margin-left:5px;
+    margin-right:5px; 
+}
